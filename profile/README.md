@@ -1,5 +1,12 @@
 # DermaScan
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bangkit-Capstone-C242-PS028/.github/refs/heads/main/profile/assets/DermaScan%20Logo.png" alt="Logo DermaScan" style="width: 20%;">
+  <h1>Mobile Application</h1>
+  <p>DermaScan is an Android application designed to assist users in detecting and managing skin lesions. With its modern and user-friendly interface, the app empowers both patients and doctors with advanced tools for analysis, collaboration, and consultation. 🩺💡
+</p>
+</div>
+
 # About this project
 
 In Indonesia, many underserved communities struggle to access basic healthcare, especially for early diagnosis and treatment of skin conditions. Limited access to dermatologists and healthcare facilities makes it difficult for individuals in these areas to receive timely care, which often leads to delayed treatment and worsened health outcomes. Traditional diagnostic tools rely on large amounts of data and skilled professionals, which are often unavailable or inaccessible in these regions.
@@ -28,7 +35,9 @@ Empower your skin health journey with DermaScan! 🌟🩺 This innovative app is
 
 # Mobile Development
 
-TODO
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bangkit-Capstone-C242-PS028/.github/refs/heads/main/profile/assets/DermaScan%20Application.png" alt="DermaScan Application" style="width: 100%;">
+</div>
 
 # Machine Learning
 
