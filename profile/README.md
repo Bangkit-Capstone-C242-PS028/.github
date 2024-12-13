@@ -41,7 +41,9 @@ Empower your skin health journey with DermaScan! 🌟🩺 This innovative app is
 
 # Machine Learning
 
-TODO
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bangkit-Capstone-C242-PS028/.github/refs/heads/main/profile/assets/Dermascan_ML_Workflow.png" alt="ML Workflow" style="width: 100%;">
+</div>
 
 # Cloud Computing
 
